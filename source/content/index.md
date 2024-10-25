@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Directory
 ---
 
-Hello world!
-
-Woohoo! Yippee!
+Let's see how this would work
