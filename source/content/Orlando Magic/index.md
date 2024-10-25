@@ -1,4 +1,4 @@
 ---
-title: '"Play the song"'
+title:
 ---
 This is a category?

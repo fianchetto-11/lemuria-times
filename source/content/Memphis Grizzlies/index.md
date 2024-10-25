@@ -1,4 +1,4 @@
 ---
-title: Welcome to Beale St.
+title:
 ---
 This is a category?
