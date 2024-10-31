@@ -1,5 +1,6 @@
 ---
-title: Directory
+title: 2024-25 NBA Season Scrapbook
 ---
-
-Let's see how this would work
+Highlights by Team:
+[[Orlando Magic/index|Orlando Magic]]
+[[Memphis Grizzlies/index|Memphis Grizzlies]]
