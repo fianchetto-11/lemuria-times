@@ -1,4 +1,4 @@
 ---
-title:
+title: Orlando Magic
 ---
-This is a category?
+All of the pages relating to the Orlando Magic:

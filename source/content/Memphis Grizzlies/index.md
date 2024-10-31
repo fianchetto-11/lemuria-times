@@ -1,4 +1,4 @@
 ---
-title:
+title: Memphis Grizzlies
 ---
-This is a category?
+All of the pages relating to the Memphis Grizzlies:
