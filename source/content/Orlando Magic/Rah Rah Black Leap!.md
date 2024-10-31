@@ -2,7 +2,7 @@
 title:
 ---
 Anthony Black has opponents spurned. Big stock guy in the making.
-<video width="560" height="315" loop controls muted>
+<video loop controls muted>
 <source src="https://videos.nba.com/nba/pbp/media/2024/10/28/0022400102/234/6b526608-84b9-f45d-87c1-eb857d5bbf50_1280x720.mp4" type="video/mp4">
 </video>
 
