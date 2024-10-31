@@ -19,8 +19,7 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
-import ThreeJS from "./ThreeJS"
-import Landing from "./Landing"
+import Comments from "./Comments"
 
 export {
   ArticleTitle,
@@ -44,6 +43,5 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
-  ThreeJS,
-  Landing,
+  Comments,
 }
