@@ -1,0 +1,16 @@
+{
+  "snippets_file": "snippets : It can be an obsidian plugin, that replaces your selected text.\n\nwhynot : testing\n\nnewvid : <video loop controls muted><source src=\"$pst$\" type=\"video/mp4\"></video>\n",
+  "snippets": [
+    "snippets : It can be an obsidian plugin, that replaces your selected text.",
+    "whynot : testing",
+    "newvid : <video loop controls muted><source src=\"$pst$\" type=\"video/mp4\"></video>"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
