@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "d8f37c0658b18b8b",
         "type": "tabs",
         "children": [
           {
-            "id": "124a048ff724bfd0",
+            "id": "3c034ed2ff2a879e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orlando Magic/The Franz Wagner Hypothesis.md",
+                "file": "Orlando Magic/Fuck the Lakers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Franz Wagner Hypothesis"
-            }
-          },
-          {
-            "id": "eebdca5aa28cd48d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orlando Magic/The Franz Wagner Hypothesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Franz Wagner Hypothesis"
+              "title": "Fuck the Lakers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eebdca5aa28cd48d",
+  "active": "3c034ed2ff2a879e",
   "lastOpenFiles": [
+    "Orlando Magic/Untitled.md",
+    "Orlando Magic/Fuck the Lakers.md",
     "Orlando Magic/Rah Rah Black Leap!.md",
-    "Orlando Magic/The Franz Wagner Hypothesis.md",
     "Orlando Magic/index.md",
     "Memphis Grizzlies/Murder in Milwaukee, A Case Study.md",
     "Memphis Grizzlies/The Art of the Skip Pass.md",
