@@ -10,7 +10,8 @@ Magic on second night of a back to back get a nice win without Paolo against a f
 | Mo Wagner    | 19  | 5   | 4   | 53% | 7/13  | 1/2  | 4/5 | 0   | 1   |
 | Goga Bitadze | 7   | 15  | 2   | 75% | 3/4   | 0/0  | 1/1 | 1   | 1   |
 
-Shoutout to Tristan Da Silva (12 PTS 2/3 3PT) and Gary Harris (11 PTS 3/6 3PT). Here are some misc highlights...
+>[!example]
+>Shoutout to Tristan Da Silva (12 PTS 2/3 3PT) and Gary Harris (11 PTS 3/6 3PT). Here are some misc highlights...
 
 Goga vision
 <video loop controls muted><source src="https://videos.nba.com/nba/pbp/media/2024/11/21/0022400263/55/1c1d48f3-e971-6e03-6ee7-571f4479cdab_1280x720.mp4" type="video/mp4"></video>
