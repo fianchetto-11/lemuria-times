@@ -9,6 +9,7 @@ Magic on second night of a back to back get a nice win without Paolo against a f
 | Jalen Suggs  | 23  | 5   | 5   | 38% | 7/18  | 5/13 | 4/5 | 2   | 2   |
 | Mo Wagner    | 19  | 5   | 4   | 53% | 7/13  | 1/2  | 4/5 | 0   | 1   |
 | Goga Bitadze | 7   | 15  | 2   | 75% | 3/4   | 0/0  | 1/1 | 1   | 1   |
+
 Shoutout to Tristan Da Silva (12 PTS 2/3 3PT) and Gary Harris (11 PTS 3/6 3PT). Here are some misc highlights...
 
 Goga vision
